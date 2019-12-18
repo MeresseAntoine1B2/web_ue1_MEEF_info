@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0
+}
+
+#container {
+    border: solid thin #666666;
+    width: 350px;
+    margin: auto;
+    padding: 25px;
+}
+
+#code {
+    width: 150px;
+    height: 40px;
+    margin: auto;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #999999;
+    font-size: 2em;
+    text-align: center;
+    color: #5959FF
+}
+
+button {
+    font-size: 2em;
+    margin: 7px;
+    width: 50px;
+    height: 50px;
+}
